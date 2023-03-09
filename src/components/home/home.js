@@ -1,4 +1,4 @@
-import Navbar from "../navBar/navbar";
+import Navbar from "../navbar/navbar";
 import Banner from "../Banner/banner";
 import Products from "../Product/Products";
 
